@@ -1,6 +1,6 @@
 # NailFlow — projeto local conectado ao Supabase
 
-Este é o mesmo app do protótipo, agora fora do Claude — rodando no seu computador
+Este é o um app do protótipo — rodando no seu computador
 e falando de verdade com o Supabase.
 
 ## 1. Instalar
